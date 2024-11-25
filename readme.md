@@ -22,19 +22,16 @@ This is a simple Spring web application to illustrate common basic usage of Azur
 
 ### Quickstart
 
-1. Log in to Azure Developer CLI.
+1. Log in to Azure Developer CLI. *This is only required once per-install.*
 
     ```bash
     azd auth login
     ```
 
-    > [!TIP]
-    > This is only required once per-install.
-
 1. Initialize this template (`cosmos-db-table-go-quickstart`) using `azd init`
 
     ```bash
-    azd init --template cosmos-db-nosql-go-quickstart
+    azd init --template cosmos-db-table-go-quickstart
     ```
 
 1. Ensure that **Docker** is running in your environment.
