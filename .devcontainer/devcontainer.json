@@ -13,7 +13,6 @@
       "vscode": {
         "extensions": [
           "ms-azuretools.azure-dev",
-          "ms-azuretools.vscode-cosmosdb",
           "vscjava.vscode-java-pack"
         ]
       }
