@@ -30,10 +30,10 @@ This is a simple Spring web application to illustrate common basic usage of Azur
     azd auth login
     ```
 
-1. Initialize this template (`cosmos-db-table-go-quickstart`) using `azd init`
+1. Initialize this template (`cosmos-db-table-java-quickstart`) using `azd init`
 
     ```bash
-    azd init --template cosmos-db-table-go-quickstart
+    azd init --template cosmos-db-table-java-quickstart
     ```
 
 1. Ensure that **Docker** is running in your environment.
